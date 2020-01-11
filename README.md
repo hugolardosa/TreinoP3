@@ -1,6 +1,6 @@
 ## Exercícios de P3 
 
-Pasta testeTreinoStudocu
+Pasta treinoTesteStudocu
 > Teste de treino encontrado na plataforma Studocu, pdf disponivel no estudoExameA1S1
 
 Pasta exGuioes
